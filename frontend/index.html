@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maharashtra Reservoir Water Storage Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="dashboard-header">
+            <div class="header-left">
+                <div class="logo-container">
+                    <div class="pulse-ring"></div>
+                    <span class="logo-icon">💧</span>
+                </div>
+                <div>
+                    <h1>MWRD Pravah Dashboard</h1>
+                    <p class="subtitle">Real-time Reservoir Water Storage & Analysis</p>
+                </div>
+            </div>
+            
+            <div class="header-right">
+                <div class="sync-status">
+                    <span class="status-dot green"></span>
+                    <span class="status-text">Connected to MWRD Server</span>
+                </div>
+                <button id="refreshBtn" class="btn-refresh">
+                    <span class="icon">🔄</span>
+                    <span class="text">Sync Latest PDF</span>
+                    <div class="spinner hidden" id="spinner"></div>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Stats Summary -->
+        <section class="stats-summary-grid">
+            <!-- Pune Overview -->
+            <div class="summary-card glass pune-theme">
+                <div class="card-bg-glow"></div>
+                <div class="card-header">
+                    <h3>Pune Lakes Overview</h3>
+                    <span class="badge">Region</span>
+                </div>
+                <div class="metric-container">
+                    <div class="metric-value" id="puneTotalPct">0%</div>
+                    <div class="metric-label">Average Live Storage</div>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="puneTotalBar" style="width: 0%"></div>
+                </div>
+                <div class="card-footer">
+                    <span id="puneTotalVol">0 / 0 Mcum</span>
+                </div>
+            </div>
+
+            <!-- Mumbai Overview -->
+            <div class="summary-card glass mumbai-theme">
+                <div class="card-bg-glow"></div>
+                <div class="card-header">
+                    <h3>Mumbai Lakes Overview</h3>
+                    <span class="badge">Region</span>
+                </div>
+                <div class="metric-container">
+                    <div class="metric-value" id="mumbaiTotalPct">0%</div>
+                    <div class="metric-label">Average Live Storage</div>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="mumbaiTotalBar" style="width: 0%"></div>
+                </div>
+                <div class="card-footer">
+                    <span id="mumbaiTotalVol">0 / 0 Mcum</span>
+                </div>
+            </div>
+
+            <!-- Meta Information -->
+            <div class="summary-card glass info-theme">
+                <div class="card-bg-glow"></div>
+                <div class="card-header">
+                    <h3>Data Sync Information</h3>
+                    <span class="badge info">Status</span>
+                </div>
+                <div class="info-list">
+                    <div class="info-item">
+                        <span class="info-label">Report Date</span>
+                        <span class="info-val" id="reportDate">-</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Report Time</span>
+                        <span class="info-val" id="reportTime">-</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Source</span>
+                        <a href="https://mwrdpravah.in/damsafety/control/pdfLatestReportEng" target="_blank" class="source-link">MWRD Daily PDF ↗</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Workspace Tabs & Views -->
+        <main class="dashboard-content">
+            <!-- Region Selector -->
+            <div class="view-selector-bar">
+                <button class="tab-btn active" data-region="all">All Reservoirs</button>
+                <button class="tab-btn" data-region="pune">Pune Region</button>
+                <button class="tab-btn" data-region="mumbai">Mumbai Supply</button>
+            </div>
+
+            <!-- Chart Section -->
+            <section class="charts-container-grid">
+                <div class="chart-card glass">
+                    <div class="chart-header">
+                        <h2>Storage Levels Trend (30 Days Timeline)</h2>
+                        <div class="chart-legend">
+                            <span class="legend-dot pune"></span> Pune Avg
+                            <span class="legend-dot mumbai"></span> Mumbai Avg
+                        </div>
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="trendsChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Detailed Grid -->
+            <section class="dams-grid-section">
+                <h2 class="section-title">Individual Reservoir Breakdown</h2>
+                <div class="dams-grid" id="damsGrid">
+                    <!-- Dynamic Dam Cards will be inserted here -->
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>Maharashtra Water Resource Department Reservoir Monitor &bull; Built in pair-programming with Antigravity</p>
+        </footer>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

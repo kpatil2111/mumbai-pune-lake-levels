@@ -1,0 +1,32 @@
+# ── Credentials & Secrets ──────────────────────────────────────────────────────
+backend/.env          # Real DB credentials — never commit this
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ── Runtime / Process files ────────────────────────────────────────────────────
+server.pid            # PID written by start.sh at runtime
+*.pid
+
+# ── Logs ───────────────────────────────────────────────────────────────────────
+*.log
+healthcheck.log
+server.log
+sync.log
+
+# ── Data / Backups ─────────────────────────────────────────────────────────────
+data/                 # DB is the source of truth; JSON backups are local only
+
+# ── OS / Editor artifacts ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/

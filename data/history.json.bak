@@ -1,0 +1,1469 @@
+[
+  {
+    "date": "25/06/2026",
+    "dams": [
+      {
+        "name": "Upper Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 113.87,
+        "percentage_today": 34.37,
+        "percentage_last_year": 58.57
+      },
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 62.74,
+        "percentage_today": 28.9,
+        "percentage_last_year": 36.59
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 45.63,
+        "percentage_today": 16.63,
+        "percentage_last_year": 45.56
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 11.35,
+        "percentage_today": 20.3,
+        "percentage_last_year": 60.87
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 53.42,
+        "percentage_today": 17.71,
+        "percentage_last_year": 38.12
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 42.78,
+        "percentage_today": 11.78,
+        "percentage_last_year": 46.82
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 17.34
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 20.87,
+        "percentage_today": 10.78,
+        "percentage_last_year": 33.59
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 273.45,
+        "percentage_today": 29.03,
+        "percentage_last_year": 45.55
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 73.16,
+        "percentage_today": 41.86,
+        "percentage_last_year": 64.16
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 30.81,
+        "percentage_today": 17.86,
+        "percentage_last_year": 46.54
+      }
+    ]
+  },
+  {
+    "date": "26/06/2026",
+    "dams": [
+      {
+        "name": "Upper Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 112.31,
+        "percentage_today": 33.9,
+        "percentage_last_year": 59.46
+      },
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 62.51,
+        "percentage_today": 28.79,
+        "percentage_last_year": 37.5
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 45.12,
+        "percentage_today": 16.45,
+        "percentage_last_year": 46.57
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 11.06,
+        "percentage_today": 19.78,
+        "percentage_last_year": 63.6
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 53.62,
+        "percentage_today": 17.78,
+        "percentage_last_year": 39.87
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 43.14,
+        "percentage_today": 11.88,
+        "percentage_last_year": 48.1
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 17.34
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 20.87,
+        "percentage_today": 10.78,
+        "percentage_last_year": 37.72
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 271.43,
+        "percentage_today": 28.81,
+        "percentage_last_year": 46.28
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 73.16,
+        "percentage_today": 41.86,
+        "percentage_last_year": 66.18
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 30.81,
+        "percentage_today": 17.86,
+        "percentage_last_year": 49.33
+      }
+    ]
+  },
+  {
+    "date": "29/06/2026",
+    "dams": [
+      {
+        "name": "Upper Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 107.31,
+        "percentage_today": 32.39,
+        "percentage_last_year": 61.21
+      },
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 62.13,
+        "percentage_today": 28.62,
+        "percentage_last_year": 41.25
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 43.6,
+        "percentage_today": 15.89,
+        "percentage_last_year": 51.48
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 8.09,
+        "percentage_today": 14.47,
+        "percentage_last_year": 61.08
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 52.6,
+        "percentage_today": 17.44,
+        "percentage_last_year": 44.61
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 43.14,
+        "percentage_today": 11.88,
+        "percentage_last_year": 53.55
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 35.34
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 21.89,
+        "percentage_today": 11.31,
+        "percentage_last_year": 37.72
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 264.7,
+        "percentage_today": 28.1,
+        "percentage_last_year": 49.25
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 70.34,
+        "percentage_today": 40.24,
+        "percentage_last_year": 66.18
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 28.75,
+        "percentage_today": 16.66,
+        "percentage_last_year": 49.33
+      }
+    ]
+  },
+  {
+    "date": "30/06/2026",
+    "dams": [
+      {
+        "name": "Upper Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 61.21
+      },
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 61.82,
+        "percentage_today": 28.48,
+        "percentage_last_year": 42.44
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 43.09,
+        "percentage_today": 15.71,
+        "percentage_last_year": 53.16
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 8.46,
+        "percentage_today": 15.13,
+        "percentage_last_year": 61.51
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 51.69,
+        "percentage_today": 17.14,
+        "percentage_last_year": 45.95
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 43.31,
+        "percentage_today": 11.93,
+        "percentage_last_year": 55.12
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 35.9
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 21.89,
+        "percentage_today": 11.31,
+        "percentage_last_year": 37.72
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 262.46,
+        "percentage_today": 27.86,
+        "percentage_last_year": 49.83
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 70.34,
+        "percentage_today": 40.24,
+        "percentage_last_year": 66.18
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 28.75,
+        "percentage_today": 16.66,
+        "percentage_last_year": 49.33
+      }
+    ]
+  },
+  {
+    "date": "01/07/2026",
+    "dams": [
+      {
+        "name": "Upper Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 61.21
+      },
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 61.52,
+        "percentage_today": 28.34,
+        "percentage_last_year": 44.24
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 40.85,
+        "percentage_today": 14.89,
+        "percentage_last_year": 53.71
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 8.65,
+        "percentage_today": 15.47,
+        "percentage_last_year": 63.6
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 51.18,
+        "percentage_today": 16.97,
+        "percentage_last_year": 48.13
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 44.13,
+        "percentage_today": 12.15,
+        "percentage_last_year": 56.0
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 39.64
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 21.89,
+        "percentage_today": 11.31,
+        "percentage_last_year": 37.72
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 260.22,
+        "percentage_today": 27.62,
+        "percentage_last_year": 50.4
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 70.34,
+        "percentage_today": 40.24,
+        "percentage_last_year": 66.18
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 28.75,
+        "percentage_today": 16.66,
+        "percentage_last_year": 49.33
+      }
+    ]
+  },
+  {
+    "date": "02/07/2026",
+    "dams": [
+      {
+        "name": "Upper Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 86.65,
+        "percentage_today": 26.15,
+        "percentage_last_year": 61.21
+      },
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 61.67,
+        "percentage_today": 28.41,
+        "percentage_last_year": 45.71
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 44.26,
+        "percentage_today": 16.13,
+        "percentage_last_year": 56.15
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 8.46,
+        "percentage_today": 15.13,
+        "percentage_last_year": 63.77
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 52.6,
+        "percentage_today": 17.44,
+        "percentage_last_year": 50.65
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 46.07,
+        "percentage_today": 12.69,
+        "percentage_last_year": 57.94
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 40.83
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 21.89,
+        "percentage_today": 11.31,
+        "percentage_last_year": 37.72
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 266.04,
+        "percentage_today": 28.24,
+        "percentage_last_year": 51.36
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 70.34,
+        "percentage_today": 40.24,
+        "percentage_last_year": 66.18
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 28.75,
+        "percentage_today": 16.66,
+        "percentage_last_year": 49.33
+      }
+    ]
+  },
+  {
+    "date": "03/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 62.05,
+        "percentage_today": 28.58,
+        "percentage_last_year": 50.28
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 47.98,
+        "percentage_today": 17.49,
+        "percentage_last_year": 60.06
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 7.61,
+        "percentage_today": 13.61,
+        "percentage_last_year": 58.16
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 56.05,
+        "percentage_today": 18.58,
+        "percentage_last_year": 50.56
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 47.95,
+        "percentage_today": 13.2,
+        "percentage_last_year": 60.06
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.0,
+        "percentage_today": 0.0,
+        "percentage_last_year": 46.39
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 24.89,
+        "percentage_today": 12.86,
+        "percentage_last_year": 53.73
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 272.78,
+        "percentage_today": 28.95,
+        "percentage_last_year": 53.33
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 75.17,
+        "percentage_today": 43.01,
+        "percentage_last_year": 68.9
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 34.87,
+        "percentage_today": 20.21,
+        "percentage_last_year": 54.08
+      }
+    ]
+  },
+  {
+    "date": "04/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 63.2,
+        "percentage_today": 29.11,
+        "percentage_last_year": 52.06
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 51.52,
+        "percentage_today": 18.78,
+        "percentage_last_year": 62.3
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 7.39,
+        "percentage_today": 13.22,
+        "percentage_last_year": 60.19
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 62.59,
+        "percentage_today": 20.75,
+        "percentage_last_year": 57.43
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 55.01,
+        "percentage_today": 15.15,
+        "percentage_last_year": 63.42
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 0.86,
+        "percentage_today": 0.82,
+        "percentage_last_year": 48.62
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 24.89,
+        "percentage_today": 12.86,
+        "percentage_last_year": 53.73
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 273.45,
+        "percentage_today": 29.03,
+        "percentage_last_year": 55.96
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 75.17,
+        "percentage_today": 43.01,
+        "percentage_last_year": 68.9
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 34.87,
+        "percentage_today": 20.21,
+        "percentage_last_year": 54.08
+      }
+    ]
+  },
+  {
+    "date": "05/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 68.03,
+        "percentage_today": 31.34,
+        "percentage_last_year": 53.82
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 60.71,
+        "percentage_today": 22.13,
+        "percentage_last_year": 65.59
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 7.61,
+        "percentage_today": 13.61,
+        "percentage_last_year": 59.6
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 69.33,
+        "percentage_today": 22.99,
+        "percentage_last_year": 59.65
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 4.01,
+        "percentage_today": 3.82,
+        "percentage_last_year": 51.61
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 31.87,
+        "percentage_today": 16.47,
+        "percentage_last_year": 62.21
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 296.28,
+        "percentage_today": 31.45,
+        "percentage_last_year": 58.45
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 80.58,
+        "percentage_today": 46.1,
+        "percentage_last_year": 76.05
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 43.72,
+        "percentage_today": 25.34,
+        "percentage_last_year": 61.23
+      }
+    ]
+  },
+  {
+    "date": "06/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 90.23,
+        "percentage_today": 41.56,
+        "percentage_last_year": 56.08
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 93.92,
+        "percentage_today": 34.24,
+        "percentage_last_year": 67.7
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 15.8,
+        "percentage_today": 28.26,
+        "percentage_last_year": 61.51
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 85.99,
+        "percentage_today": 28.51,
+        "percentage_last_year": 61.77
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 10.89,
+        "percentage_today": 10.37,
+        "percentage_last_year": 55.26
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 35.52,
+        "percentage_today": 18.35,
+        "percentage_last_year": 62.21
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 326.33,
+        "percentage_today": 34.64,
+        "percentage_last_year": 62.09
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 85.91,
+        "percentage_today": 49.15,
+        "percentage_last_year": 76.05
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 52.79,
+        "percentage_today": 30.6,
+        "percentage_last_year": 61.23
+      }
+    ]
+  },
+  {
+    "date": "07/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 117.5,
+        "percentage_today": 54.12,
+        "percentage_last_year": 58.39
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 136.94,
+        "percentage_today": 49.92,
+        "percentage_last_year": 68.31
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 41.77,
+        "percentage_today": 74.71,
+        "percentage_last_year": 61.29
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 118.86,
+        "percentage_today": 39.41,
+        "percentage_last_year": 63.9
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 17.38,
+        "percentage_today": 16.55,
+        "percentage_last_year": 58.23
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 50.54,
+        "percentage_today": 26.11,
+        "percentage_last_year": 62.21
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 400.74,
+        "percentage_today": 42.54,
+        "percentage_last_year": 67.71
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 113.34,
+        "percentage_today": 64.84,
+        "percentage_last_year": 76.05
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 89.72,
+        "percentage_today": 52.01,
+        "percentage_last_year": 61.23
+      }
+    ]
+  },
+  {
+    "date": "08/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 147.86,
+        "percentage_today": 68.11,
+        "percentage_last_year": 59.51
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 160.66,
+        "percentage_today": 58.57,
+        "percentage_last_year": 67.84
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 55.91,
+        "percentage_today": 100.0,
+        "percentage_last_year": 57.7
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 118.86,
+        "percentage_today": 39.41,
+        "percentage_last_year": 63.9
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 29.58,
+        "percentage_today": 28.17,
+        "percentage_last_year": 59.99
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 67.12,
+        "percentage_today": 34.68,
+        "percentage_last_year": 62.21
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 480.26,
+        "percentage_today": 50.98,
+        "percentage_last_year": 70.26
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 138.97,
+        "percentage_today": 79.51,
+        "percentage_last_year": 76.05
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 128.02,
+        "percentage_today": 74.21,
+        "percentage_last_year": 61.23
+      }
+    ]
+  },
+  {
+    "date": "09/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 159.01,
+        "percentage_today": 73.24,
+        "percentage_last_year": 61.19
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 176.23,
+        "percentage_today": 64.24,
+        "percentage_last_year": 67.7
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 53.52,
+        "percentage_today": 95.73,
+        "percentage_last_year": 56.0
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 170.24,
+        "percentage_today": 56.44,
+        "percentage_last_year": 67.34
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 36.31,
+        "percentage_today": 34.58,
+        "percentage_last_year": 61.44
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 81.51,
+        "percentage_today": 42.12,
+        "percentage_last_year": 93.16
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 531.06,
+        "percentage_today": 56.37,
+        "percentage_last_year": 71.21
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 152.54,
+        "percentage_today": 87.27,
+        "percentage_last_year": 99.97
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 139.88,
+        "percentage_today": 81.08,
+        "percentage_last_year": 81.28
+      }
+    ]
+  },
+  {
+    "date": "11/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 162.68,
+        "percentage_today": 74.93,
+        "percentage_last_year": 62.95
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 180.8,
+        "percentage_today": 65.91,
+        "percentage_last_year": 67.13
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 55.91,
+        "percentage_today": 100.0,
+        "percentage_last_year": 55.77
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 177.74,
+        "percentage_today": 58.93,
+        "percentage_last_year": 69.58
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 40.16,
+        "percentage_today": 38.24,
+        "percentage_last_year": 64.91
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 81.51,
+        "percentage_today": 42.12,
+        "percentage_last_year": 93.16
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 542.35,
+        "percentage_today": 57.57,
+        "percentage_last_year": 72.76
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 152.54,
+        "percentage_today": 118.32,
+        "percentage_last_year": 135.54
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 139.88,
+        "percentage_today": 81.08,
+        "percentage_last_year": 81.28
+      }
+    ]
+  },
+  {
+    "date": "12/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 162.95,
+        "percentage_today": 75.06,
+        "percentage_last_year": 63.45
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 182.36,
+        "percentage_today": 66.48,
+        "percentage_last_year": 66.96
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 55.91,
+        "percentage_today": 100.0,
+        "percentage_last_year": 57.04
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 177.74,
+        "percentage_today": 58.93,
+        "percentage_last_year": 69.58
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 40.7,
+        "percentage_today": 38.76,
+        "percentage_last_year": 66.45
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 81.51,
+        "percentage_today": 42.12,
+        "percentage_last_year": 93.16
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 542.74,
+        "percentage_today": 57.61,
+        "percentage_last_year": 73.37
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 152.54,
+        "percentage_today": 118.32,
+        "percentage_last_year": 135.54
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 139.88,
+        "percentage_today": 81.08,
+        "percentage_last_year": 81.28
+      }
+    ]
+  },
+  {
+    "date": "13/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 163.21,
+        "percentage_today": 75.18,
+        "percentage_last_year": 63.95
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 182.81,
+        "percentage_today": 66.64,
+        "percentage_last_year": 66.72
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 55.16,
+        "percentage_today": 98.66,
+        "percentage_last_year": 57.47
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 179.81,
+        "percentage_today": 59.62,
+        "percentage_last_year": 70.38
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 41.04,
+        "percentage_today": 39.08,
+        "percentage_last_year": 67.48
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 81.51,
+        "percentage_today": 42.12,
+        "percentage_last_year": 93.16
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 544.72,
+        "percentage_today": 57.82,
+        "percentage_last_year": 74.1
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 106.68,
+        "percentage_today": 82.75,
+        "percentage_last_year": 135.54
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 139.88,
+        "percentage_today": 81.08,
+        "percentage_last_year": 81.28
+      }
+    ]
+  },
+  {
+    "date": "14/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 163.48,
+        "percentage_today": 75.3,
+        "percentage_last_year": 64.74
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 182.58,
+        "percentage_today": 66.56,
+        "percentage_last_year": 67.35
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 53.65,
+        "percentage_today": 95.96,
+        "percentage_last_year": 57.25
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 179.81,
+        "percentage_today": 59.62,
+        "percentage_last_year": 70.38
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 59.38,
+        "percentage_today": 16.35,
+        "percentage_last_year": 64.68
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 41.25,
+        "percentage_today": 39.28,
+        "percentage_last_year": 68.83
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 85.4,
+        "percentage_today": 44.13,
+        "percentage_last_year": 93.09
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 546.31,
+        "percentage_today": 57.99,
+        "percentage_last_year": 74.59
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 102.34,
+        "percentage_today": 79.38,
+        "percentage_last_year": 135.54
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 140.98,
+        "percentage_today": 81.72,
+        "percentage_last_year": 84.6
+      }
+    ]
+  },
+  {
+    "date": "15/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 163.48,
+        "percentage_today": 75.3,
+        "percentage_last_year": 65.98
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 183.48,
+        "percentage_today": 66.89,
+        "percentage_last_year": 68.47
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 51.33,
+        "percentage_today": 91.81,
+        "percentage_last_year": 63.38
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 179.81,
+        "percentage_today": 59.62,
+        "percentage_last_year": 70.38
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 201.23,
+        "percentage_today": 55.42,
+        "percentage_last_year": 77.34
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 41.44,
+        "percentage_today": 39.46,
+        "percentage_last_year": 70.89
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 85.62,
+        "percentage_today": 44.24,
+        "percentage_last_year": 94.16
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 544.72,
+        "percentage_today": 57.82,
+        "percentage_last_year": 77.55
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 100.37,
+        "percentage_today": 77.85,
+        "percentage_last_year": 135.54
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 140.66,
+        "percentage_today": 81.53,
+        "percentage_last_year": 86.86
+      }
+    ]
+  },
+  {
+    "date": "16/07/2026",
+    "dams": [
+      {
+        "name": "Bhama Askhed",
+        "region": "pune",
+        "live_storage_today": 164.14,
+        "percentage_today": 75.61,
+        "percentage_last_year": 66.55
+      },
+      {
+        "name": "Pawana",
+        "region": "pune",
+        "live_storage_today": 184.37,
+        "percentage_today": 67.21,
+        "percentage_last_year": 67.84
+      },
+      {
+        "name": "Khadakwasla",
+        "region": "pune",
+        "live_storage_today": 49.62,
+        "percentage_today": 88.75,
+        "percentage_last_year": 61.95
+      },
+      {
+        "name": "Panshet",
+        "region": "pune",
+        "live_storage_today": 184.17,
+        "percentage_today": 61.06,
+        "percentage_last_year": 76.12
+      },
+      {
+        "name": "Warasgaon",
+        "region": "pune",
+        "live_storage_today": 201.23,
+        "percentage_today": 55.42,
+        "percentage_last_year": 77.34
+      },
+      {
+        "name": "Temghar",
+        "region": "pune",
+        "live_storage_today": 41.75,
+        "percentage_today": 39.76,
+        "percentage_last_year": 72.29
+      },
+      {
+        "name": "Middle Vaitarna",
+        "region": "mumbai",
+        "live_storage_today": 86.01,
+        "percentage_today": 44.44,
+        "percentage_last_year": 92.06
+      },
+      {
+        "name": "Bhatsa",
+        "region": "mumbai",
+        "live_storage_today": 542.74,
+        "percentage_today": 57.61,
+        "percentage_last_year": 80.35
+      },
+      {
+        "name": "Modak Sagar",
+        "region": "mumbai",
+        "live_storage_today": 99.46,
+        "percentage_today": 77.15,
+        "percentage_last_year": 99.96
+      },
+      {
+        "name": "Tansa",
+        "region": "mumbai",
+        "live_storage_today": 142.08,
+        "percentage_today": 82.36,
+        "percentage_last_year": 90.93
+      }
+    ]
+  }
+]
